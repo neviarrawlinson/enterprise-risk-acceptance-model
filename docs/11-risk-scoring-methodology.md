@@ -36,3 +36,10 @@ Impact considers:
 - Customer data impact
 - Reputational damage
 - Operational disruption
+  
+---
+## 4. Control Effectiveness Rating
+
+High – Controls strongly mitigate risk  
+Moderate – Controls partially mitigate risk  
+Low – Controls provide limited mitigation  
