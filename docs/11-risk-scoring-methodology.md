@@ -43,3 +43,20 @@ Impact considers:
 High – Controls strongly mitigate risk  
 Moderate – Controls partially mitigate risk  
 Low – Controls provide limited mitigation  
+
+---
+
+## 5. Residual Risk Determination
+
+Residual Risk = Inherent Risk adjusted by Control Effectiveness
+
+Example logic:
+
+- High effectiveness: Reduce risk by 50%
+- Moderate effectiveness: Reduce by 25%
+- Low effectiveness: Minimal reduction
+
+Residual Risk must be documented before risk acceptance.
+
+---
+
