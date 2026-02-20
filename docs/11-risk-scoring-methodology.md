@@ -60,3 +60,23 @@ Residual Risk must be documented before risk acceptance.
 
 ---
 
+## 6. Tier Mapping Logic
+
+Residual Risk Score Range:
+
+1–6 → Tier 1  
+7–14 → Tier 2  
+15–25 → Tier 3  
+
+Tier classification determines approval routing and SLA.
+
+---
+
+## Guiding Principle
+
+Risk scoring must be:
+
+- Consistent
+- Defensible
+- Transparent
+- Repeatable
