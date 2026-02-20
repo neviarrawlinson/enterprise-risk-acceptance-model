@@ -21,3 +21,18 @@ Inherent Risk = Likelihood × Impact
 5 – Almost Certain  
 
 ---
+## 3. Impact Scale (1–5)
+
+1 – Negligible  
+2 – Minor  
+3 – Moderate  
+4 – Significant  
+5 – Severe / Material  
+
+Impact considers:
+
+- Financial loss
+- Regulatory exposure
+- Customer data impact
+- Reputational damage
+- Operational disruption
