@@ -5,6 +5,9 @@ A practical, enterprise-ready unified risk acceptance framework designed for com
 This model balances operational agility with structured governance, enabling organizations to simplify exception management while maintaining executive visibility and accountability.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb73a539-7d2c-4925-b3ea-0aee7ed0f57b" />
+
+---
 
 # Executive Summary
 
