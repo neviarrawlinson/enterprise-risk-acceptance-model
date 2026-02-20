@@ -12,3 +12,12 @@ Inherent risk represents the level of risk before controls are applied.
 Inherent Risk = Likelihood × Impact
 
 ---
+## 2. Likelihood Scale (1–5)
+
+1 – Rare  
+2 – Unlikely  
+3 – Possible  
+4 – Likely  
+5 – Almost Certain  
+
+---
